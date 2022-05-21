@@ -3,3 +3,6 @@ une génération procédurale de cercles avec un jeux de couleurs.
 
 Source audio : https://uppbeat.io/browse/trending
 Auteur : Mood Maze
+
+Compilation: Make 
+exécution: ./basicDemo
